@@ -1,0 +1,28 @@
+/* Así se escriben comentarios en CSS */
+
+body {
+  background-color: #E8EAE6;
+}
+
+h1 {
+text-align: none;
+text-transform: uppercase;
+color: #7C9473;
+}
+
+h3 {
+  color: #7C9473;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #7C9473;
+  border-width: 6px;
+  width: 5%;
+}
+
+.b1 {
+  height: 160px;
+  width: 160px;
+}
